@@ -6,7 +6,7 @@ import Facebook from './components/Facebook';
 function App() {
   return (
     <div className="App">
-     <h1>Facebook Login</h1>
+     <h1>Facebook Login Clone 🔑</h1>
      <Facebook />
     </div>
   );
